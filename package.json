@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Week 11 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jskim25/constructor-word-guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jskim25/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/jskim25/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "is-letter": "^1.1.1"
+  }
+}
